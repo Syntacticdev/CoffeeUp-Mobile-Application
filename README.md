@@ -66,20 +66,17 @@ coffeeup/
 - JWT-based secure authentication
 - User registration and login
 - Persistent session management
-- Password recovery system
 
 ### 🛍️ Order Management
 - Intuitive order browsing
 - Real-time order tracking
 - Comprehensive order history
-- Status notifications
 - Order details view
 
 ### 💳 Payment Integration
 - Secure Paystack integration
 - Real-time total calculation
-- Payment status tracking
-- Transaction history
+
 
 ### 📱 User Interface
 - Modern, intuitive design
@@ -125,16 +122,6 @@ npm start
 npm run ios     # iOS
 npm run android # Android
 npm run web     # Web
-```
-
-
-### Testing
-```bash
-# Run unit tests
-npm test
-
-# Run with coverage
-npm test -- --coverage
 ```
 
 ### State Management
