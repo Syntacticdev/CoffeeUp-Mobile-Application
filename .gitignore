@@ -5,9 +5,11 @@ node_modules/
 
 # Expo
 .expo/
+android
 dist/
 web-build/
 expo-env.d.ts
+.env
 
 # Native
 *.orig.*
